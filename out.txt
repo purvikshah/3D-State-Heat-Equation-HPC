@@ -1,0 +1,9 @@
+M and N are 400
+This is Serial Execution
+1 0.000000
+
+This is Parallel Execution
+Number of threads are 1
+1 0.000014
+
+Number of threads are 2
